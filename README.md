@@ -11,7 +11,7 @@
   # Olá! Sou o Yurgen! ✌  
 
   👨‍💻 Trabalhando como Backend Developer <br>
-  🌱 Estudando: Unity | .NET | Postman <br>
+  🌱 Estudando: .NET e ASP.NET | Unity <br>
   🗣️ Línguas: Português, English <br>
   👦 Pronomes: Ele/Dele <br>
   🎭 Fun Fact: Está tudo bem errar meu nome. <br>
@@ -26,7 +26,7 @@
 
   ##
   
-  ### Sobre Mim
+  ### Sobre Mim 🧿
   
   Técnico em Desenvolvimento de Sistemas pelo SENAI, Campus Afonso Pena. Graduando no curso de Engenharia do Software pela IEL - Faculdades da Indústria, Campus Afonso Pena.
 
@@ -35,7 +35,7 @@ Atualmente trabalho como estagiário back-end, desenvolvendo de sistemas para ro
 Alguns de meus projetos da faculdade de Engenharia de Software foram reunidos na organização Jabescript, com participação variada dos integrantes. Lá tem um pouco de tudo: protótipo de e-commerce com PHP e MySQL, reconhecimento de imagem com Kinect e OpenCV para ROS, dentre outros projetos. (A organização ainda está em construção, falta agrupar os projetos e montar os readme's).
 
 
-### Entre em Contato 
+### Entre em Contato 📧
 
 <div>
   <a href = "mailto:yurgen.schn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
