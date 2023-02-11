@@ -32,7 +32,7 @@
 
 Atualmente trabalho como estagiário back-end, desenvolvendo de sistemas para robôs móveis autônomos. Desenvolvo pacotes ROS, gerenciando outros pacotes em execução e estabelecendo serviços e API's via Node-Red. Desenvolvo componentes de interface do usuário e participo de processos de documentações de software.
 
-Alguns de meus projetos da faculdade de Engenharia de Software foram reunidos na organização Jabescript, com participação variada dos integrantes. Lá tem um pouco de tudo: protótipo de e-commerce com PHP e MySQL, reconhecimento de imagem com Kinect e OpenCV para ROS, dentre outros projetos. (A organização ainda está em construção, falta agrupar os projetos e montar os readme's).
+Alguns de meus projetos da faculdade de Engenharia de Software foram reunidos na organização <a href="https://github.com/JABES-Devs">🪐JABESCRIPT🪐</a>, com participação variada dos integrantes. Lá tem um pouco de tudo: protótipo de e-commerce com PHP e MySQL, reconhecimento de imagem com Kinect e OpenCV para ROS, dentre outros projetos. (WIP).
 
 
 ### Entre em Contato 📧
