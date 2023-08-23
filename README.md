@@ -30,7 +30,7 @@
   
   Técnico em Desenvolvimento de Sistemas pelo SENAI, Campus Afonso Pena. Graduando no curso de Engenharia do Software pela IEL - Faculdades da Indústria, Campus Afonso Pena.
 
-Atualmente trabalho como estagiário back-end, desenvolvendo de sistemas para robôs móveis autônomos. Desenvolvo pacotes ROS, gerenciando outros pacotes em execução e estabelecendo serviços e API's via Node-Red. Desenvolvo componentes de interface do usuário e participo de processos de documentações de software.
+Atualmente trabalho como desenvolvedor fullstack, desenvolvendo APIs em ASP.NET e aplicações em Angular. Trabalho com integrações de serviços terceiros, tais como Serasa e CERC. Construo e incremento aplicações em Angular, integrando aos endpoints construídos no backend ASP.NET. Em minha rotina eu desenvolvo, testo localmente e participo dos processos de homologação na Google Cloud - onde tenho contato com configurações de Kubernetes e serviços em núvem, tal como o Google Storage, Google Kubernetes Engine, Google Pubsub - dentre vários outros serviços.
 
 Alguns de meus projetos da faculdade de Engenharia de Software foram reunidos na organização <a href="https://github.com/JABES-Devs">🪐JABESCRIPT🪐</a>. Lá tem um pouco de tudo: protótipo de e-commerce com PHP e MySQL, reconhecimento de imagem com Kinect e OpenCV para ROS, dentre outros projetos. (WIP).
 
