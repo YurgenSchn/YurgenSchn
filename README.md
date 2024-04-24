@@ -11,7 +11,7 @@
   # Olá! Sou o Yurgen! ✌  
 
   👨‍💻 Trabalhando como Backend Developer <br>
-  🌱 Estudando: .NET e ASP.NET | Unity <br>
+  🌱 Estudando: .NET e ASP.NET | Godot <br>
   🗣️ Línguas: Português, English <br>
   👦 Pronomes: Ele/Dele <br>
   🎭 Fun Fact: Está tudo bem errar meu nome. <br>
@@ -70,7 +70,6 @@ Alguns de meus projetos da faculdade de Engenharia de Software foram reunidos na
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   ![Php](https://img.shields.io/badge/PHP-4f5b93?style=for-the-badge&logo=php&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-  ![Unity](https://img.shields.io/badge/Unity-323330?style=for-the-badge&logo=unity&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
   
