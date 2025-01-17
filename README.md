@@ -9,8 +9,7 @@
   
   ### Olá! Sou o Yurgen Schneider! ✌  
 
-  👨‍💻 Trabalhando como Backend Developer <br>
-  🌱 Estudando: .NET e ASP.NET | Godot <br>
+  🌱 Estudando: .NET | Ruby on Rails | Godot | Unity <br>
   🗣️ Línguas: Português, English <br>
   👦 Pronomes: Ele/Dele <br>
   🎭 Fun Fact: Está tudo bem errar meu nome. <br>
